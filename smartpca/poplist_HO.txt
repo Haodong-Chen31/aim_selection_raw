@@ -1,0 +1,16 @@
+====Han_North====
+Han_North
+====Han_South====
+Han_South
+====Tibetan====
+Tibetan
+====Tai-Kadai====
+Tai_Kadai
+====Hmong-Mien====
+Hmong_Mien
+====Austronesian====
+Austronesian
+====Mongolic====
+Mongolic
+====Tungusic====
+Tungusic

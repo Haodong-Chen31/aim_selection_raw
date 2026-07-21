@@ -1,0 +1,2 @@
+cp $1 $1.bak
+awk 'BEGIN{OFS="\t"}{if (($2=="X")){print $1,"23",$3,$4,$5,$6} else if (($2=="Y")){print $1,"24",$3,$4,$5,$6} else{print $1,$2,$3,$4,$5,$6}}' $1.bak | awk 'BEGIN{FS=" ";OFS="\t";}{print $2"_"$4,$2,$3,$4,$5,$6;}' > $1
