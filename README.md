@@ -1,7 +1,7 @@
 # aim_selection_raw
 A pipeline for ancestry informative SNP panel based on FST and LD, just for personal use.
 
-# 用到的软件, R包, python库等
+## 用到的软件, R包, python库等
 ```
 #PLINK v1.9.0-b.7.7 64-bit (22 Oct 2024)
 #VCFtools (0.1.16)
